@@ -1,0 +1,16 @@
+Nombre del Producto, Precio, Ingredientes
+Hamburguesa Sencilla, 100, Pan, Lechuga, Tomate, Cebolla, Salsa BBQ, Carne de Res
+Hamburguesa a la Colombiana, 200, Pan, Lechuga, Tomate, Cebolla, Salsa BBQ, Carne de Cerdo, Huevo Frito
+Hamburguesa Todoterreno, 300, Pan, Lechuga, Tomate, Cebolla, Salsa Rosada y BBQ, Carne de Cerdo, Carne de Res, Tocineta
+Hamburguesa Pollo Champiñón, 400, Pan, Lechuga, Tomate, Cebolla, Pollo Desmechado, Champiñón en Salsa
+Bebidas
+Agua, 50
+Limonada, 80
+Coca Cola, 60
+Papas Fritas
+Tamaño Mediano, 40
+Tamaño Grande, 60
+Combos
+Combo 1, 650, Hamburguesa Todoterreno, Coca Cola, Papas Medianas
+Combo 2, 350, Hamburguesa a la Colombiana, Limonada
+Combo 3, 300, Hamburguesa Sencilla, Papas Medianas

@@ -1,0 +1,8 @@
+Factura:
+Productos en la Compra:
+1. Hamburguesa Sencilla - Precio: 100.0
+   Ingredientes Adicionales:
+   - Pan - Precio: 1.5
+   - Cebolla - Precio: 0.2
+2. Hamburguesa Pollo Champiñón - Precio: 400.0
+Total: 501.7
