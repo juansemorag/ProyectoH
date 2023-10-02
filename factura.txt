@@ -6,3 +6,19 @@ Productos en la Compra:
    - Cebolla - Precio: 0.2
 2. Hamburguesa Pollo Champiñón - Precio: 400.0
 Total: 501.7
+
+3.Hamburguesa a la Colombiana-precio: 300.0
+ingredientes adicionales:
+-tocino-precio:0.5
+-salsa de piña-precio:0.7
+total:420.0
+
+4.Hamburguesa Todoterreno:500.0
+ingredientes adicionales:
+-champiñon-precio: 0.8
+salsa tartara-precio: 0.8
+total:660.0
+
+5.PapasTamaMediano:1.5
+6.PapasTamaGrande:2.0
+7.CocaCola: 2.0
